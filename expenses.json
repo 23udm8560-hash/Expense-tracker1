@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1788426104526,
+        "title": "car",
+        "amount": 75000.0,
+        "category": "Other",
+        "type": "Expense",
+        "date": "2026-03-07"
+    },
+    {
+        "id": 1788426162179,
+        "title": "home",
+        "amount": 100000.0,
+        "category": "Food",
+        "type": "Income",
+        "date": "2026-08-05"
+    }
+]
